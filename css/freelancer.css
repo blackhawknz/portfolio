@@ -182,7 +182,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: url(../img/about-bg.jpg);
+    background: #636363 url(../img/about-bg.jpg) no-repeat bottom;
     font-weight:bold;
 }
 
